@@ -1,0 +1,59 @@
+body{
+    background-color: #eeeac4;
+}
+.container{
+    background-color: #fdf4d1;
+    border-radius: 2%;
+    
+}
+
+.principal{
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+img{
+    border-radius: 4%;
+}
+
+#Titulo{
+    color: rgb(29, 29, 29);
+    font-family: serif;
+}
+
+.parrafo{
+    color: rgb(29, 29, 29);
+    font-family: sans-serif;
+}
+
+.preparation{
+    margin: 20px 50px;
+    padding: 20px;
+ 
+}
+
+h3{
+    color: #78290f;
+    font-family: serif;
+}
+
+ul li::marker{
+    color: #9B1D20;
+    font-size: 1.2em;
+}
+
+.ingredientes{
+    margin: 20px 50px;
+    padding: 20px;
+}
+
+h2{
+    color: #6A2E35;
+    
+}
+
+.instrucciones{
+    margin: 20px 50px;
+    padding: 20px;
+}
